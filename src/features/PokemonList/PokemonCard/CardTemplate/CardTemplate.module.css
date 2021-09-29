@@ -1,0 +1,9 @@
+.cardHeader {
+    position: relative;
+}
+
+.cardId {
+    position: absolute;
+    right: 5px;
+    top: 8px;
+}
