@@ -1,4 +1,4 @@
-###### Use [live example](http://localhost:3000) to see how it looks by yourself!
+###### Use [live example](http://iNikolas.github.io/a-pokemon-application) to see how it looks by yourself!
 
 ### The things had been done:
 
